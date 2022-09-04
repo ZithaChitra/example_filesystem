@@ -1,0 +1,22 @@
+FS Structure
+
+Superblock 
+    write
+    read
+
+inode
+    write
+    read
+
+block
+    write
+    read
+
+file
+    write
+    read
+
+************************
+File systems are very complex so we wont get
+to everything. A lot of this is also 
+simplified.
